@@ -1,3 +1,8 @@
+# 屏蔽满足要求的各层级文件
+**/.vscode/
+**/out/
+**/build/
+
 # Prerequisites
 *.d
 
